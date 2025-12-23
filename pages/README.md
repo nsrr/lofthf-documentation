@@ -41,16 +41,15 @@ Raw polysomnography data are available for n participants from baseline and x pa
 The LOFT-HF dataset is only available for non-commercial use.
 
 ## Citation and acknowledgments
-When using this dataset, users must cite the following: Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351¬1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513. Redline S, Li D, Javaheri S, Patel SR, Parthasarathy S, Fang JC, Brown LK, Dunlap M, Badr MS, Shah N, Chi L, Majid R, Teodorescu M, Stewart G, Hsich E, Polonsky T, Vader J, Johnson MR, Auckley D, Yaggi HK, Kao A, Azarbarzin A, Alex R, Rueschman M, Wolfe L, Gottlieb DJ, Sands SA, Zee PC, Mehra R, Mokhlesi B, Khayat R, Lewis EF, Abraham WT, Wang R. Nocturnal Oxygen Therapy for Central Sleep Apnea in Patients with Heart Failure: A Multi-site, Double-blind, Sham-controlled Randomized Clinical Trial (LOFT-HF). Ann Am Thorac Soc. 2025 Sep 10. doi: 10.1513/AnnalsATS.202504-409OC. Epub ahead of print. PMID: 40929650.
+When using this dataset, users must cite the following: 
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351¬1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
-When using this dataset, please cite the following:
+> [Redline S, Li D, Javaheri S, Patel SR, Parthasarathy S, Fang JC, Brown LK, Dunlap M, Badr MS, Shah N, Chi L, Majid R, Teodorescu M, Stewart G, Hsich E, Polonsky T, Vader J, Johnson MR, Auckley D, Yaggi HK, Kao A, Azarbarzin A, Alex R, Rueschman M, Wolfe L, Gottlieb DJ, Sands SA, Zee PC, Mehra R, Mokhlesi B, Khayat R, Lewis EF, Abraham WT, Wang R. Nocturnal Oxygen Therapy for Central Sleep Apnea in Patients with Heart Failure: A Multi-site, Double-blind, Sham-controlled Randomized Clinical Trial (LOFT-HF). Ann Am Thorac Soc. 2025 Sep 10. doi: 10.1513/AnnalsATS.202504-409OC. Epub ahead of print. PMID: 40929650.](https://pubmed.ncbi.nlm.nih.gov/40929650/)
 
-> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
-> 
-> 
 
 Please include the following text in the Acknowledgements:
 > The Impact of Low Flow Nocturnal Oxygen Therapy on Hospital Admissions and Mortality in Patients With Heart Failure and Central Sleep Apnea (LOFT-HF) trial was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (U24HL140412-01_UG3, U24HL140412-01 ( U.S. NIH Grant/Contract ).
+
 > The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 
@@ -58,8 +57,6 @@ Please include the following text in the Acknowledgements:
 
 -   LOFT-HF NSRR GitHub Data Dictionary: https://github.com/nsrr/lofthf-data-dictionary
 -   LOFT-HF NSRR GitHub Documentation: https://github.com/nsrr/lofthf-documentation/
--   Study on the National Sleep Research Resource (NSRR): nsrr-dataset-doi 
--   NSRR GitHub Data Dictionary: github-dataset-link
--   NSRR GitHub Documentation: github-documentation-link
+-   Study on the National Sleep Research Resource (NSRR): [http://sleepdata.org/datasets/lofthf](http://sleepdata.org/datasets/lofthf/)
 -   [ClinicalTrials.gov](https://clinicaltrials.gov)  ID NCT03745898
 
