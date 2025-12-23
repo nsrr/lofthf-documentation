@@ -55,8 +55,8 @@ Please include the following text in the Acknowledgements:
 
 ## References
 
+-   Study on the National Sleep Research Resource (NSRR): [http://sleepdata.org/datasets/lofthf](http://sleepdata.org/datasets/lofthf/)
 -   LOFT-HF NSRR GitHub Data Dictionary: https://github.com/nsrr/lofthf-data-dictionary
 -   LOFT-HF NSRR GitHub Documentation: https://github.com/nsrr/lofthf-documentation/
--   Study on the National Sleep Research Resource (NSRR): [http://sleepdata.org/datasets/lofthf](http://sleepdata.org/datasets/lofthf/)
 -   [ClinicalTrials.gov](https://clinicaltrials.gov)  ID NCT03745898
 
