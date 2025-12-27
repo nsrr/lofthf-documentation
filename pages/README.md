@@ -50,7 +50,7 @@ The [covariate dataset files (**lofthf-dataset-0.1.0.csv** and **lofthf-harmoniz
 - **.edf** - Signal files in the European Data Format exported from the Noxturnal scoring software and processed in Luna.
 - **.annot** - Event scoring annotation files output from the Noxturnal scoring software and processed in Luna.
 
-The PSG signal and annotation data were [processed and harmonzied by the NSRR team in Luna](https://gitlab-scm.partners.org/zzz-public/nsrr/-/blob/TJ/studies/loft/LOFTReadme.md).
+PSG signal and annotation data were [processed and harmonzied by the NSRR team in Luna](https://gitlab-scm.partners.org/zzz-public/nsrr/-/blob/TJ/studies/loft/LOFTReadme.md).
 
 ## Access and usage restrictions
 
