@@ -41,14 +41,16 @@ All personally identifiable information (PII) has been removed from the data fil
 
 ### Covariate/phenotype datasets (CSV)
 
-The covariate dataset files (filenames) contain n rows each. The first column (studyid) is the unique subject identifier that can be linked with PSG signal filenames. The dataset columns are described in the accompanying data dictionary files.
+The [covariate dataset files (**lofthf-dataset-0.1.0.csv** and **lofthf-harmonized-dataset-0.1.0.csv**)](:files_path:/datasets) contain 423 rows each. Each row contains data from a specific LOFT-HF [subject](:variables_path:/subject) ([nsrrid](:variables_path:/nsrrid)) and [timepoint](:variables_path:/timepoint). The dataset columns are described in the accompanying data dictionary files. PSG files can be linked to the dataset using the [nsrr_file_prefix](:variables_path:/nsrr_file_prefix) column.
 
-### PSG signal and annotation files: 
+### PSG signal and annotation files
 
-Raw polysomnography data are available for n participants from baseline and x participants studied at follow-up while on assigned treatment (oxygen or room air). Each recording has a signal file (.edf) and event scoring annotations (.xls).
+[Raw polysomnography data](:files_path:/harmonized) are available for 161 participants from baseline and 31 participants studied at follow-up while on assigned treatment (oxygen or room air). Each recording has a signal file (.edf) and event scoring annotations (.annot) file.
 
-- **EDF** - Signal files in the European Data Format exported from the Noxturnal scoring software.
-- **XLS** - Event scoring annotation files output from the Noxturnal scoring software.
+- **.edf** - Signal files in the European Data Format exported from the Noxturnal scoring software and processed in Luna.
+- **.annot** - Event scoring annotation files output from the Noxturnal scoring software and processed in Luna.
+
+The PSG signal and annotation data were [processed and harmonzied by the NSRR team in Luna](https://gitlab-scm.partners.org/zzz-public/nsrr/-/blob/TJ/studies/loft/LOFTReadme.md).
 
 ## Access and usage restrictions
 
