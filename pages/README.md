@@ -70,10 +70,9 @@ Please include the following text in the Acknowledgements:
 > 
 > The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
-
 ## References
 
-- LOFT-HF on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/lofthf/
+- LOFT-HF on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/lofthf
 - LOFT-HF NSRR GitHub Data Dictionary: https://github.com/nsrr/lofthf-data-dictionary
-- LOFT-HF NSRR GitHub Documentation: https://github.com/nsrr/lofthf-documentation/
+- LOFT-HF NSRR GitHub Documentation: https://github.com/nsrr/lofthf-documentation
 - LOFT-HF on ClinicalTrials.gov: https://clinicaltrials.gov/study/NCT03745898
